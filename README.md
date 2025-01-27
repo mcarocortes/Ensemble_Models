@@ -19,18 +19,6 @@ Este proyecto implementa y compara diferentes modelos de aprendizaje automático
 5. XGBoost
 6. LightGBM
 
-## Instalación y Uso
-1. Clonar el repositorio:
-   ```sh
-   git clone https://github.com/tu_usuario/ensemble-models.git
-   cd ensemble-models
-   ```
-2. Instalar dependencias:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Ejecutar el notebook en Jupyter o Colab.
-
 ## Evaluación de Modelos
 Se comparan modelos usando MSE y se visualizan los resultados en gráficos.
 
